@@ -32,4 +32,4 @@ A professional website for Wedding, a luxury wedding photography and filming.
 
 ## License
 
-This project is open-source and available under the MIT License. Feel free to modify and use it for your own portfolio.
+This project is open-source and available under the MIT License..
